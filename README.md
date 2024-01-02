@@ -1,5 +1,5 @@
 <p>
-<img src="https://github.com/open-health-repository-framework/ohrf-delta-lake-pyspark/blob/main/docs/images/ohrf-logo-m.png" alt="OHRF" width="250px" />
+<img src="https://github.com/open-health-repository-framework/ohrf-delta-lake-pyspark/blob/main/docs/images/ohrf-logo-m.png" alt="OHRF"/>
 </p>
 
 # ohrf-delta-lake-pyspark
