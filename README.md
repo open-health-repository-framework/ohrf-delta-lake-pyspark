@@ -1,2 +1,6 @@
+<p>
+<img src="https://github.com/open-health-repository-framework/ohrf-delta-lake-pyspark/blob/main/docs/images/ohrf-logo-m.png" alt="OHRF" width="250px" />
+</p>
+
 # ohrf-delta-lake-pyspark
 OHRF repository for Delta Lake with Apache Spark using Python language.
